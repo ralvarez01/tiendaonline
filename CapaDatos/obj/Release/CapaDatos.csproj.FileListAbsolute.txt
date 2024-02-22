@@ -1,0 +1,9 @@
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaDatos\bin\Release\CapaModelo.dll
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaDatos\bin\Release\CapaModelo.pdb
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaDatos\obj\Release\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaDatos\obj\Release\CapaDatos.csproj.CopyComplete
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaDatos\obj\Release\CapaDatos.pdb

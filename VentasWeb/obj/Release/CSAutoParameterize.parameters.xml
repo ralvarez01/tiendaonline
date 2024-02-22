@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="miconexion-Web.config Connection String" description="miconexion Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=sql8005.site4now.net;Initial Catalog=db_aa591d_sa; User ID=db_aa591d_sa_admin; Password=71a24041" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Raymundo\ Alvarez\\Desktop\\022_SistemaVentaAspMVC-main\\VentasWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='miconexion']/@connectionString" />
+  </parameter>
+</parameters>

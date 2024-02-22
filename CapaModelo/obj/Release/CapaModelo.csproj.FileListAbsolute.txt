@@ -1,0 +1,6 @@
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaModelo\bin\Release\CapaModelo.dll
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaModelo\bin\Release\CapaModelo.pdb
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaModelo\obj\Release\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaModelo\obj\Release\CapaModelo.dll
+C:\Users\Raymundo Alvarez\Desktop\022_SistemaVentaAspMVC-main\CapaModelo\obj\Release\CapaModelo.pdb
